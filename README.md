@@ -1,9 +1,8 @@
 # MyProject
 
 this is my first Git Repository
-`<br>`
+<br>
 Untracked modified staged unmodified
 
-`<br>`
-
+<br>
 This is Vscode Page
