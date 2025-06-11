@@ -1,3 +1,3 @@
 # MyProject
 
-a
+Untracked modified staged unmodified
